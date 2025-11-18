@@ -1,0 +1,14 @@
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+.docker/
+.vscode/ # Config editor spesifik pengguna
+.idea/   # Config JetBrains/GoLand
+*.sublime-project
+*.sublime-workspace
+.cache/
+# .nx/
+# .turbo/
