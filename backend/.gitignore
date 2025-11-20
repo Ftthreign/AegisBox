@@ -10,7 +10,7 @@ vendor/
 *.o
 *.a
 .env
-.env.*
+!.env.*
 *.log
 *.sqlite3
 .vscode/
